@@ -1,5 +1,3 @@
-import React from "react";
-
 const Pause = ({ minutes }) => {
   return (
     <p className="text-white italic my-6 font-medium max-w-md mx-auto text-center">
